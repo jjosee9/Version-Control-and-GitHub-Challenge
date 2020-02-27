@@ -1,3 +1,8 @@
 1. Explain what the terminal is in your own words.
+The terminal is a text user interface used to command your computer. You can used it for several functions such us navigating through files, folders etc. You can also use it to push files into Github.
+
 2. What is the major difference between Git and Github?
+Git is the version control system that allows you to have different versions of different files. Works as taking a picture of the file every time we commit changes. Git is a local repository which means we will always have access to it no matter where we are. Git is also distributed which means that it can exist many computers Github uses Git. Github is basically another computer using the same repository. Github needs internet to have changes pushed. 
+
 3. Why do we use Github?
+We use Github because it allows us to host a repository which can be modified by other users under their own account. It provides access control and several collaboration features.
